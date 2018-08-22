@@ -10,7 +10,7 @@ This collection of data was created by following these steps:
   3. Then the EXCITE reference segmentation algorithm was applied on the set of references of step 2.
   4. In the final stage, a human assessor created the list of all matches (in [Sowiport](http://sowiport.gesis.org/)) for each reference string.
   
-The results of these steps were stored in [DataSet_A csv](https://raw.githubusercontent.com/exciteproject/GoldStandard_for_matching/master/Datasets_for_matching/%5BDataSet_A%5D_Extracted_references_and_Match_IDs.csv) file. This CSV file contains 816 reference strings with 6 columns:
+The results of these steps were stored in [DataSet_A csv](https://raw.githubusercontent.com/exciteproject/GoldStandard_for_matching/master/Datasets_for_matching/%5BDataSet_A%5D_Extracted_references_and_Match_IDs.csv) file. This CSV file contains 816 reference strings with 4 columns:
 
   1. ref_id,
   2. reference_strings,
